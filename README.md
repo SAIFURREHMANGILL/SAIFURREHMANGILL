@@ -23,13 +23,13 @@
 
 <h2>GitHub Stats 📊 :</h2>
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=saifrehmangill&theme=algolia" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api?username=saifrehmangill&theme=algolia" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifrehmangill&theme=algolia" alt="Top Languages">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SAIFURREHMANGILL&theme=algolia" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=SAIFURREHMANGILL&theme=algolia" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIFURREHMANGILL&theme=algolia" alt="Top Languages">
 </p>
 
 <h2>Connect With Me 📫 :</h2>
 <p>
-    <a href="https://www.linkedin.com/in/saifrehmangill/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"></a>
-    <a href="mailto:saifrehmangill@example.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email"></a>
+    <a href="https://www.linkedin.com/in/saif-ur-rehman-gill-7632b9327/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"></a>
+    <a href="https://github.com/SAIFURREHMANGILL"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
 </p>
